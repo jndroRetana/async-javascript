@@ -1,0 +1,22 @@
+{
+  "name": "async-javascript",
+  "version": "1.0.0",
+  "description": "Ejercicios de asincronismo con javascript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node ./src/callback/index.js",
+    "callback:challenge": "node ./src/callback/challenge.js"
+  },
+  "keywords": [
+    "asincronismo",
+    "callback",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Jesús Retana <jndro.retana@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
